@@ -20,6 +20,7 @@ MediumEditor has been written using vanilla JavaScript, no additional frameworks
 [![Dependency Status](https://david-dm.org/yabwe/medium-editor.svg)](https://david-dm.org/yabwe/medium-editor)
 [![devDependency Status](https://david-dm.org/yabwe/medium-editor/dev-status.svg)](https://david-dm.org/yabwe/medium-editor#info=devDependencies)
 [![Coverage Status](https://coveralls.io/repos/yabwe/medium-editor/badge.svg?branch=master&service=github)](https://coveralls.io/github/yabwe/medium-editor?branch=master)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/medium-editor/badge?style=rounded)](https://www.jsdelivr.com/package/npm/medium-editor)
 
 # Basic usage
 
